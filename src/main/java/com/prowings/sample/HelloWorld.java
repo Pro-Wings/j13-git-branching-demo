@@ -30,4 +30,11 @@ public class HelloWorld {
 		int b = 5;
 		return a - b;
 	}
+	//substraction method
+	private static int multiplication() {
+		int a = 10;
+		int b = 5;
+		return a * b;
+	}
+
 }
