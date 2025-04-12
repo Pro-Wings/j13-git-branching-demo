@@ -17,6 +17,7 @@ public class HelloWorld {
 		System.out.println("hiiiiiiiiiiiiiiiiHellllllooooo");
 	}
 
+	//addition method
 	private static void add(int a, int b)
 	{
 		int res = a + b;
