@@ -23,4 +23,13 @@ public class HelloWorld {
 		int res = a + b;
 		System.out.println("Addition is :"+res);
 	}
+	
+	//substraction method
+	private static int substraction() {
+		int a = 10;
+		int b = 5;
+		int res = a - b;
+		System.out.println("Substraction is :" + res);
+		return res;
+	}
 }
